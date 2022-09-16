@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
-# Feito por Victoria Malta Pereira de Lima
-#numero USP 10789301
+# Feito por Victoria Malta de Lima
+
 
 import numpy as np
 import matplotlib.pyplot as plt
